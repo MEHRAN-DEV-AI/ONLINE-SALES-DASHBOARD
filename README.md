@@ -2,7 +2,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MEHRAN-DEV-AI/ONLINE-SALES-DASHBOARD/HEAD)
 # Direct Access To The Notebook
 [CLICK HERE](https://nbviewer.org/github/MEHRAN-DEV-AI/ONLINE-SALES-DASHBOARD/blob/main/SALES%20DASHBOARD.ipynb) TO SEE THE NOTEBOOK DIRECTLY.
-
+# Overview
  This repository contains code for building an interactive sales dashboard using Jupyter Notebook and Plotly. The dashboard provides comprehensive insights into sales trends, top-selling products, regional performance, revenue analysis, and various metrics.
 
 # Features
